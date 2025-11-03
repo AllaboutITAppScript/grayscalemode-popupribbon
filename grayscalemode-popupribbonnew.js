@@ -95,8 +95,8 @@
             }
             
             .grayscale-effect {
-                filter: grayscale(100%) !important;
-                -webkit-filter: grayscale(100%) !important;
+                filter: grayscale(75%) !important;
+                -webkit-filter: grayscale(75%) !important;
             }
         `;
         
